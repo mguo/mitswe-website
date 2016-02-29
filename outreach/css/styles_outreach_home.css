@@ -26,8 +26,8 @@
 }
 
 .learn-more {
-  background-color: #f7f7f7;
-}
+/*  background-color: #f7f7f7;
+*/}
 
 .learn-more h2.centered{
   font-family: 'Shift', sans-serif;
@@ -37,15 +37,36 @@
   padding-bottom: 25px;
   
 }
+
+.learn-more h2.centered_with_image{
+  font-family: 'Shift', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;  
+}
+
 .learn-more h3 {
   font-family: 'Shift', sans-serif;
   font-size: 18px;
   font-weight: bold;
-  color: blue;
+  color: #0E0826;
 }
-
+.learn-more h4 {
+  font-family: 'Shift', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  color: #1D153C;
+}
 .learn-more a {
   color: #00b0ff;
+}
+.learn-more p {
+  font-size: 14px;
+  color: black;
+}
+
+iframe {
+  align: middle;
 }
 
 /*

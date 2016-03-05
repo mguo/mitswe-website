@@ -28,7 +28,7 @@ body {
 }
  */
 div.navbar {
-  /*position: fixed;*/
+  position: fixed;
   top: 0;
   height: 100px;
   width: 100%;

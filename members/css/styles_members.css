@@ -1,7 +1,7 @@
 
 
 .jumbotron {
-  background-image: url(../images/background_home.png);
+  background-image: url(../images/background_section_resources.png);
   height: 500px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -27,6 +27,14 @@
 
 .learn-more {
   background-color: #f7f7f7;
+}
+
+.learn-more h2.centered{
+  font-family: 'Shift', sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+  padding-bottom: 25px;
 }
 
 .learn-more h3 {

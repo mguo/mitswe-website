@@ -23,7 +23,7 @@
 <header class="siteHeader  strip">
 	    <div class="wrapper">
 	        <!-- Logo -->
-	        <a href="index3.html" class="branding"><img src="../images/SWE_Logo_MIT-horz.png" alt="(MITSWE) SWE Logo"></a>
+	        <a href="../home/index3.html" class="branding"><img src="../images/SWE_Logo_MIT-horz.png" alt="(MITSWE) SWE Logo"></a>
 
 	         <!-- Primary site Nav -->
 	        <a href="#siteNav" class="hamburger  js-menuLink">
@@ -53,7 +53,7 @@
 		            <div class="navDropdown">
 		                <ul class="nav  nav--stacked" style="clear:both">
 		                    <li class="navItem"><a href="../about/about.html">About MIT SWE</a></li>
-		                    <li class="navItem"><a href="/#">MIT SWE Leadership</a></li>
+		                    <li class="navItem"><a href="../about/board.html">MIT SWE Leadership</a></li>
 		                    <li class="navItem"><a href="../about/nationaswemembership.html">National SWE</a></li>
 		                </ul>
 		            </div>
@@ -65,7 +65,7 @@
 
 			        <div class="navDropdown  navDropdown--twoUp  navDropdown--pinnedLeft">
 			        <div class="navDropdown-column">
-	                    <a href="#"><h5 class="navDropdown-heading navDropdown-heading--select u-textAllcaps">General Info</h5></a>
+
                     
 	                    <h5 class="navDropdown-heading  u-textAllcaps">Elementary School</h5>
 	                    <ul class="nav  nav--stacked ">
@@ -127,12 +127,11 @@
 
 				<!-- Members Only -->
 		        <li class="navItem  hasDropdown  js-hasDropdown">
-		            <a class="js-dropdownTrigger" href="#"><span>For Members</span></a>
+		            <a class="js-dropdownTrigger" href="../members/members.html"><span>For Members</span></a>
 		            <div class="navDropdown">
 		                <ul class="nav  nav--stacked">
-		                    <li class="navItem"><a href="#"><span>Section Resources</span></a></li>
-		                    <li class="navItem"><a href="#"><span>Awards and Scholarships</span></a></li>
-		                    <li class="navItem"><a href="#"><span>Wiki</span></a></li>
+		                    <li class="navItem"><a href="../members/members/section_resources.html"><span>Section Resources</span></a></li>
+		                    <li class="navItem"><a href="http://swe.mit.edu/wiki"><span>Wiki</span></a></li>
 		                </ul>
 		            </div>
 		        </li>
